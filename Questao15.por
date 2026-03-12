@@ -2,7 +2,7 @@ programa
 {
 	inclua biblioteca Util --> u
 	
-	funcao inteiro soma(inteiro num1, inteiro num2){
+	funcao inteiro soma(inteiro num1, inteiro num2){
 		retorne num1 + num2
 		}
 		

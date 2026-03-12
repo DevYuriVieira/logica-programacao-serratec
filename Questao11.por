@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Util --> u
+	inclua biblioteca Util --> u
 
 	funcao inteiro ePar(inteiro num){
 		retorne num % 2
