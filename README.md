@@ -25,7 +25,7 @@ Questões realizadas:
 ### Nivea Dos Santos D Avila
 Questões realizadas:
 - Questão 6
-- Questão 17
+- Questão 19
 - Questão 20
 
 ### João Gabriel Silva Barros
